@@ -1,0 +1,23 @@
+{
+    "title":"Sign in",
+    "home":"Home",
+    "products":"Products",
+    "sale":"Sale",
+    "WomenClothing":"Women's Clothing",
+    "menClothing":"Men's Clothing",
+    "ElectronicDevices":"Electronic Devices",
+    "signIn":"SignIn",
+    "email":"Email",
+    "password":"Password",
+    "signOut":"Sign Out",
+    "shopWithUs":"Shop WithUs",
+    "shoppingCart":"Shopping Cart",
+    "Favorite":"Favorite",
+    "ForgotYourPassword":"Forgot your password?",
+    "signUp":"Create a new account",
+    "name":"name",
+    "rePassword":"rePassword",
+    "phone":"phone"
+
+
+} 

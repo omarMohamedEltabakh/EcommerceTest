@@ -1,0 +1,17 @@
+.ProductDetails {
+    background-color: var(--secondColor);
+    padding-bottom: 82px;
+}
+
+.ProductDetails .addToCartBtn {
+    all: unset;
+    border: 2px solid var(--mainColor);
+    border-radius: 10px;
+    padding: 10px 20px;
+    transition: transform .3s ease-in;
+    cursor: pointer;
+}
+
+.ProductDetails .addToCartBtn:hover {
+    transform: translateY(15%);
+}

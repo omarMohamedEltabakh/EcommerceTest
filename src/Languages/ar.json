@@ -1,0 +1,24 @@
+{
+    "title": "تسجيل الدخول",
+    "home": "الصفحة الرئيسية",
+    "products": "المنتاجات",
+    "sale": "العروض",
+    "WomenClothing": "ملابس رجالية",
+    "menClothing": "ملابس نسائية",
+    "ElectronicDevices": "أجهزه الكترونية",
+    "signIn": "تسجيل الدخول",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "signOut":"تسجيل الخروج",
+    "shopWithUs":"تسوق معنا",
+    "shoppingCart":"عربة التسوق",
+    "Favorite":"المفضلة",
+    "ForgotYourPassword":"هل نسيت كلمة المرور ؟",
+    "signUp":"إنشاء حساب جديد",
+    "name":"الإسم",
+    "rePassword":"إعادة كلمة المرور",
+    "phone":"رقم الهاتف"
+
+
+
+}

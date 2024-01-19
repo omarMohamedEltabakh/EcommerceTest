@@ -1,0 +1,7 @@
+footer {
+    background-color: #e7e7e7;
+}
+.dark footer{
+    background-color: #5c5b5b;
+    color: white !important;
+}

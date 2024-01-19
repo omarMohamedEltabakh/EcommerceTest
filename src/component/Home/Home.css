@@ -1,0 +1,65 @@
+.home {
+    background-color: var(--secondColor);
+
+}
+
+
+.home .priceAndRate .star {
+    color: #ffc908;
+}
+
+.home .cart:hover {
+    box-shadow: 2px 2px 20px 0px var(--mainColor) !important;
+    cursor: pointer;
+    rotate: 1deg;
+
+}
+
+
+.home .cart img:hover {
+    transform: scale(1.1);
+
+}
+
+.home .cart img {
+    transition: all .3s ease-in !important;
+}
+
+.home .cart {
+
+    transition: all .3s ease-in;
+}
+
+.dark .home .cart {
+    transition: all .3s ease-in;
+    border: 1px solid rgba(93, 188, 252, 0.3);
+}
+
+.dark .home .cart:hover {
+    border: solid 1px rgb(0, 149, 246);
+
+}
+.home .loadingScreen{
+    height: 100%;
+    width: 100%;
+    
+  background-color: rgba(169, 169, 169, 0.7);
+    z-index: 44444;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: fixed;
+}
+.home .HomeLink{
+    color: inherit;
+    text-decoration: none !important;
+}
+@media(max-width:576px){
+    .home .carts{
+        width: 350px;
+        margin: auto;
+    }
+}
+
